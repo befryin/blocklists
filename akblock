@@ -26,5 +26,6 @@
 @@||mathplayground.com^$ctag=user_child
 @@||math-drills.com^$ctag=user_child
 @@||homeschoolmath.net^$ctag=user_child
+@@||canva.com^$ctag=user_child
 ||www.google.com/search*$ctag=user_child
 /.*/$ctag=user_child
